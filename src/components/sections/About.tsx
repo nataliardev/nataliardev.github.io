@@ -11,7 +11,7 @@ export const About = () => {
         <Card className="p-8 md:p-12 max-w-4xl mx-auto border-4 border-primary/40 bg-card hover:border-primary transition-all duration-300">
           <div className="space-y-6 text-base md:text-lg text-foreground leading-relaxed">
             <p>
-              Atualmente estou em busca da minha primeira oportunidade
+              Atualmente estou em busca de uma nova oportunidade
               profissional como desenvolvedora, com o objetivo de integrar um
               time onde eu possa aplicar meus conhecimentos em desenvolvimento
               full-stack e evoluir por meio de desafios reais.
@@ -31,6 +31,7 @@ export const About = () => {
               profissionalmente.
             </p>
           </div>
+
           <div className="space-y-6 text-base md:text-lg text-foreground leading-relaxed">
             <p>
               I am currently seeking my first professional opportunity as a
@@ -38,12 +39,14 @@ export const About = () => {
               development skills and continue growing through real-world
               challenges.
             </p>
+
             <p>
               I have been consistently building practical projects, deepening my
               knowledge of software engineering best practices, and developing a
               strong understanding of how technology and product work together
               to create value for users.
             </p>
+
             <p>
               I am looking for a collaborative, quality-driven environment that
               values continuous learning, where I can contribute with
