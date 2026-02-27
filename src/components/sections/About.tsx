@@ -11,10 +11,10 @@ export const About = () => {
         <Card className="p-8 md:p-12 max-w-4xl mx-auto border-4 border-primary/40 bg-card hover:border-primary transition-all duration-300">
           <div className="space-y-6 text-base md:text-lg text-foreground leading-relaxed">
             <p>
-              Atualmente estou em busca de uma nova oportunidade
-              profissional como desenvolvedora, com o objetivo de integrar um
-              time onde eu possa aplicar meus conhecimentos em desenvolvimento
-              full-stack e evoluir por meio de desafios reais.
+              Atualmente estou em busca de uma nova oportunidade profissional
+              como desenvolvedora, com o objetivo de integrar um time onde eu
+              possa aplicar meus conhecimentos em desenvolvimento full-stack e
+              evoluir por meio de desafios reais.
             </p>
 
             <p>
@@ -30,9 +30,7 @@ export const About = () => {
               responsabilidade, organização e vontade constante de crescer
               profissionalmente.
             </p>
-          </div>
 
-          <div className="space-y-6 text-base md:text-lg text-foreground leading-relaxed">
             <p>
               I am currently seeking my first professional opportunity as a
               developer, aiming to join a team where I can apply my full-stack
