@@ -21,6 +21,14 @@ const projects = [
     github: "https://github.com/nataliardev/Python-PowerUP",
     demo: "#",
   },
+  {
+    title: "Homepage Hashtag Treinamentos",
+    description:
+      "Homepage recriada ao longo do curso 'Fullstack Impressionador' com o intuito de aplicar conceitos do básico ao avançado em HTML e CSS",
+    tags: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/nataliardev/Homepage-Hashtag-Treinamentos",
+    demo: "#",
+  },
 ];
 
 export const Projects = () => {
