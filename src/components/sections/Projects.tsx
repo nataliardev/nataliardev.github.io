@@ -29,6 +29,14 @@ const projects = [
     github: "https://github.com/nataliardev/Homepage-Hashtag-Treinamentos",
     demo: "#",
   },
+  {
+    title: "Contador",
+    description:
+      "Contador simples criado com HTML, CSS e JavaScript para demonstrar habilidades de desenvolvimento web e interatividade.",
+    tags: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/nataliardev/Contador/tree/master",
+    demo: "#",
+  },
 ];
 
 export const Projects = () => {
